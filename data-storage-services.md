@@ -60,5 +60,11 @@ Google Transfer Appliance enables secure transfer of up to a petabyte of data by
 
 Offline Media Import is where physical media is sent to a third-party provider who uploads the data
 
+### Strong Consistency
+
+### Choosing Cloud Storage
+
+![](.gitbook/assets/image%20%284%29.png)
+
 
 
