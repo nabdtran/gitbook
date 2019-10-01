@@ -35,5 +35,30 @@ Bucket policies in IAM controls the bucket level. ACLs are used for the file lev
 
 Signed URL can allow you to share an object to others with some scope. Can be a timed URL.
 
+### Cloud Storage Features
+
+* Object Life-cycle Management
+* Customer supplied encryption key
+* Object Versioning
+* Directory Synchronization
+* Object Change Notification
+* Data Import
+* Strong Consistency
+
+### Object Versioning
+
+Changes to life-cycle may take 24 hours
+
+### Data Import
+
+Storage Transfer Service enables high-performance imports of online data into Cloud Storage Bucketsj
+
+* Import from another bucket, S3 or web
+* Can schedule transfers, create filters
+
+Google Transfer Appliance enables secure transfer of up to a petabyte of data by leasing a high capacity storage server from Google
+
+Offline Media Import is where physical media is sent to a third-party provider who uploads the data
+
 
 

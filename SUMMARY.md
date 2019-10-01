@@ -2,10 +2,8 @@
 
 * [Architecting with Google Compute Engine](README.md)
 * [Introduction to GCP](untitled.md)
-* [Virtual Networks](virtual-networks.md)
-* [Virtual Machines](virtual-machines.md)
+* [Virtual Machines](virtual-machines-1.md)
+* [Virtual Networks](virtual-networks-1.md)
 * [Cloud IAM](cloud-iam.md)
 * [Data Storage Services](data-storage-services.md)
-* [Virtual Networks](virtual-networks-1.md)
-* [Virtual Machines](virtual-machines-1.md)
 
