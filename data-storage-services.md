@@ -51,7 +51,7 @@ Changes to life-cycle may take 24 hours
 
 ### Data Import
 
-Storage Transfer Service enables high-performance imports of online data into Cloud Storage Bucketsj
+Storage Transfer Service enables high-performance imports of online data into Cloud Storage Buckets
 
 * Import from another bucket, S3 or web
 * Can schedule transfers, create filters
