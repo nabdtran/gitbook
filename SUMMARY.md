@@ -6,4 +6,6 @@
 * [Virtual Machines](virtual-machines.md)
 * [Cloud IAM](cloud-iam.md)
 * [Data Storage Services](data-storage-services.md)
+* [Virtual Networks](virtual-networks-1.md)
+* [Virtual Machines](virtual-machines-1.md)
 
