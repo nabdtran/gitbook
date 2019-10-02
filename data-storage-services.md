@@ -1,12 +1,12 @@
 # Data Storage Services
 
-### Storage and Database Decision Chart
+## Storage and Database Decision Chart
 
 ![](.gitbook/assets/image%20%283%29.png)
 
 BigQuery for data warehousing.
 
-### Cloud Storage
+## Cloud Storage
 
 |  | Regional | Multi-Regional | Nearline | Coldline |
 | :--- | :--- | :--- | :--- | :--- |
@@ -17,7 +17,7 @@ BigQuery for data warehousing.
 | Duration | Hot Data | Hot Data | 30 day minimum | 90 day minimum |
 | Retrieval Cost | None | None | $ | $$ |
 
-### Cloud Storage Overview
+## Cloud Storage Overview
 
 Buckets cannot be nested
 
@@ -25,17 +25,17 @@ Objects inherits class of bucket \(Coldline\)
 
 No minimum size
 
-### Changing Default Storage Classes
+## Changing Default Storage Classes
 
 Multi-Regional buckets cannot be changed to Regional or vice versa.
 
-### Access Control
+## Access Control
 
 Bucket policies in IAM controls the bucket level. ACLs are used for the file level.
 
 Signed URL can allow you to share an object to others with some scope. Can be a timed URL.
 
-### Cloud Storage Features
+## Cloud Storage Features
 
 * Object Life-cycle Management
 * Customer supplied encryption key
@@ -45,11 +45,11 @@ Signed URL can allow you to share an object to others with some scope. Can be a 
 * Data Import
 * Strong Consistency
 
-### Object Versioning
+## Object Versioning
 
 Changes to life-cycle may take 24 hours
 
-### Data Import
+## Data Import
 
 Storage Transfer Service enables high-performance imports of online data into Cloud Storage Buckets
 
@@ -60,11 +60,9 @@ Google Transfer Appliance enables secure transfer of up to a petabyte of data by
 
 Offline Media Import is where physical media is sent to a third-party provider who uploads the data
 
-### Strong Consistency
+## Strong Consistency
 
-### Choosing Cloud Storage
+## Choosing Cloud Storage
 
 ![](.gitbook/assets/image%20%284%29.png)
-
-
 
