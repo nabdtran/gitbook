@@ -10,4 +10,5 @@
 * [Load Balancing](load-balancing.md)
 * [Infrastructure Automation](infrastructure-automation.md)
 * [Business Logic Layer](business-logic-layer.md)
+* [Design](design.md)
 
