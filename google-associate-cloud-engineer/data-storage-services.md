@@ -2,7 +2,7 @@
 
 ## Storage and Database Decision Chart
 
-![](.gitbook/assets/image%20%283%29.png)
+![](../.gitbook/assets/image%20%283%29.png)
 
 BigQuery for data warehousing.
 
@@ -64,5 +64,5 @@ Offline Media Import is where physical media is sent to a third-party provider w
 
 ## Choosing Cloud Storage
 
-![](.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/image%20%284%29.png)
 
